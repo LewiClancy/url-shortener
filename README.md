@@ -1,4 +1,9 @@
-# UrlShortener
+# DevProjects - Link shortener website
+
+This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
+Find the project requirements here: [Link shortener website](https://www.codementor.io/projects/web/link-shortener-website-brqjanf6zq)
+
+## UrlShortener
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
